@@ -8,6 +8,7 @@ print(A)
 np.mean(A,axis=0)
 np.sum(A)
 #np.累加(a)
+np.cumsum(A)
 #A[3,1]
 #A[3,:]
 #A[:,1]
